@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables (secrets like passwords and API keys)
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
